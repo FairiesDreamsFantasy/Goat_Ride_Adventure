@@ -1,0 +1,27 @@
+[
+  {
+    "input": "Shift-V",
+    "logic": "Toggle First Person Rider View",
+    "status": "memorized"
+  },
+  {
+    "input": "Shift-M-L",
+    "logic": "Trigger 'Share Later' message",
+    "status": "memorized"
+  },
+  {
+    "input": "Shift-L",
+    "logic": "Trigger 'Learn More' near girls",
+    "status": "memorized"
+  },
+  {
+    "input": "I",
+    "logic": "Interact with objects/girls",
+    "status": "memorized"
+  },
+  {
+    "input": "A",
+    "logic": "Describe scene (1x), Describe girl/opossum if near (2x), Describe possibilities (3x)",
+    "status": "memorized"
+  }
+]

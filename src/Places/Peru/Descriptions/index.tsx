@@ -1,0 +1,1 @@
+export const PERU_DESCRIPTION = "Ascending the ancient stone terraces of Machu Picchu high in the Peruvian Andes. High-altitude mountain air, terraced stone walls, and majestic mountain vistas surround your trail.";

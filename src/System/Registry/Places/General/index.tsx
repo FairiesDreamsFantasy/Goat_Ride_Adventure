@@ -1,0 +1,2 @@
+// Registry Module: Places
+export {};

@@ -1,0 +1,1 @@
+export const AUSTRALIA_DESCRIPTION = "Riding across the vibrant red Outback terrain and coastal eucalyptus trails of Australia. Towering sandstone monoliths, open blue skies, and dusty red dirt tracks stretch ahead.";

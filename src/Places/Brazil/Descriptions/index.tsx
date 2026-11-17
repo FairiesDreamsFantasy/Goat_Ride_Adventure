@@ -1,0 +1,1 @@
+export const BRAZIL_DESCRIPTION = "Trotting through the lush Amazon basin canopy and vibrant coastal trails of Brazil. Emerald green rainforest palms, misting riverbanks, and tropical bird calls guide your ride.";

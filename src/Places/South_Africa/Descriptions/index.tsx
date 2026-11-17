@@ -1,0 +1,1 @@
+export const SOUTH_AFRICA_DESCRIPTION = "Traversing Table Mountain plateaus and Cape coastal roads in South Africa. Ocean breezes, protea flowers, and rugged granite rock formations line your trail.";

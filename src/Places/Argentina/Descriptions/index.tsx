@@ -1,0 +1,1 @@
+export const ARGENTINA_DESCRIPTION = "Riding across the vast open Pampas grasslands and majestic Andean foothill ranches of Argentina. Golden wheat fields, gaucho spirit, and open horizons guide your gallop.";

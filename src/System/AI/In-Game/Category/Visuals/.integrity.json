@@ -1,0 +1,6 @@
+{
+  "module": "System/AI/In-Game/Category/Visuals",
+  "status": "PROTECTED",
+  "antiPruning": true,
+  "checksum": "visuals-category-v1.0.0"
+}

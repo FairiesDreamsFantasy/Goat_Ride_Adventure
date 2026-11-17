@@ -1,0 +1,1 @@
+export const CHILE_DESCRIPTION = "Navigating the dramatic peaks of Torres del Paine in Patagonia and the high arid plains of Atacama in Chile. Glacial turquoise lakes and granite towers frame your ride.";

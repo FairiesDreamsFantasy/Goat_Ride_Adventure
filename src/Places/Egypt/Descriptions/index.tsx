@@ -1,0 +1,1 @@
+export const EGYPT_DESCRIPTION = "Trotting past the timeless Pyramids of Giza and along the fertile banks of the Nile in Egypt. Golden desert sands, ancient sandstone monuments, and palm oases define this historical route.";

@@ -1,0 +1,6 @@
+{
+  "module": "System/AI/In-Game/Category/Accessibility",
+  "status": "PROTECTED",
+  "antiPruning": true,
+  "checksum": "accessibility-v1.0.0"
+}

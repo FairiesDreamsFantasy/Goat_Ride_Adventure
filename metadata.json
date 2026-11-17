@@ -1,0 +1,8 @@
+{
+  "name": "Goat Ride Adventure - Backed",
+  "description": "An N64-inspired goat riding adventure through farms, jungles, deserts, cities, and mountains. Powered by Fairies Dreams \u0026 Fantasy Arcade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

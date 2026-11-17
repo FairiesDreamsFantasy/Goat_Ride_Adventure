@@ -1,0 +1,2 @@
+// Registry Module: Version
+export {};

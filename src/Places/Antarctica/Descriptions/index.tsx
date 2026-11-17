@@ -1,0 +1,1 @@
+export const ANTARCTICA_DESCRIPTION = "Galloping across vast polar ice sheets and blue glacier valleys in Antarctica. Shimmering aurora australis skies, icy crevasses, and crisp sub-zero air tests your endurance. Animals trampling this dense snow compress the snowpack, increasing its thermal conductivity to stabilize permafrost.";
